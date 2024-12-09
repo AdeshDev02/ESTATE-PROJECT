@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1{
+  font-family: "Philosopher", sans-serif;
+}
+
+h2{  
+  font-family: "Montserrat", serif;
+}
+
+.boo{
+  background-image: url(HomeComponent/est1.jpg);
+  background-size: 100% 100%;
+}
+
+.book{
+  background-image: url(HomeComponent/est2.jpg);
+  background-size: 100% 100%;
+}
+
+.books{
+  background-image: url(HomeComponent/est3.jpg);
+  background-size: 100% 100%;
+}
+
+.bool{
+  background-image: url('https://livedemo00.template-help.com/wt_prod-18389/images/bg-01-1920x768.jpg');
+  background-size: 100% 100%;
+}
+
+.boom{
+  background-image: url('https://livedemo00.template-help.com/wt_prod-18389/images/bg-02-1920x855.jpg');
+  background-size: 100% 100%;
+}
+
+.pg{
+  background-image: url('https://livedemo00.template-help.com/wt_prod-18389/images/bg-header-1920x362.jpg');
+  background-size: 100% 100%;
+}

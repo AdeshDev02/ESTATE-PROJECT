@@ -5,7 +5,7 @@ function Footer() {
   return (
     <>
      <main className='h-[400px] gap-3 hidden md:hidden lg:p-4 bg-black lg:grid  lg:grid-cols-4'>
-       <div className='p-4 bg-red-200 grid'>
+       <div className='p-4 grid'>
           <img className='mt-10 ml-12 ' src="https://livedemo00.template-help.com/wt_prod-18389/images/logo-light-207x41.png" alt="" srcset="" />
           <div className='gap-3 flex ml-12 -mt-24'>
             <section className='bg-slate-500 flex hover:bg-blue-600 justify-center items-center p-2 h-[40px] w-[40px] rounded-full'>
@@ -23,7 +23,7 @@ function Footer() {
           </div>
        </div>
 
-       <div className='bg-blue-300 w-[390px]'>
+       <div className=' w-[390px]'>
           <h2 className='font-bold text-xl mt-14 mb-5 text-white'>
             NEWSLETTER
           </h2>
@@ -35,7 +35,7 @@ function Footer() {
           </div>
        </div>
 
-       <div className='bg-emerald-300 ml-16'>
+       <div className='ml-16'>
           <h2 className='font-bold ml-1 text-xl mt-14 mb-5 text-white'>
             USEFUL LINK
           </h2>
@@ -56,7 +56,7 @@ function Footer() {
           </div>
        </div>
 
-       <div className='bg-blue-300'>
+       <div className=''>
           <h2 className='font-bold ml-1 text-xl mt-14 mb-5 text-white'>
             LASTEST NEWS
           </h2>
@@ -79,7 +79,7 @@ function Footer() {
 
       <main className='md:grid p-10 hidden lg:hidden md:grid-cols-1 h-[1000px] gap-3 bg-black'>
 
-        <div className='bg-blue-300 h-[250px]'>
+        <div className=' h-[250px]'>
             <h2 className='font-bold ml-1 text-xl mt-5 mb-5 text-white'>
               LASTEST NEWS
             </h2>
@@ -99,7 +99,7 @@ function Footer() {
             </div>
         </div>
 
-          <div className='bg-emerald-300 h-[250px]'>
+          <div className=' h-[250px]'>
               <h2 className='font-bold ml-1 text-xl mt-5 mb-5 text-white'>
                 USEFUL LINK
               </h2>
@@ -120,7 +120,7 @@ function Footer() {
               </div>
           </div>
 
-          <div className='bg-blue-300 text-center'>
+          <div className='text-center'>
           <h2 className='font-bold text-xl mt-5 mb-5 text-white'>
             NEWSLETTER
           </h2>
@@ -132,7 +132,7 @@ function Footer() {
           </div>
        </div>
 
-       <div className='p-4 bg-red-200 grid '>
+       <div className='p-4 grid '>
           <img className='mt-5 h-[90%] ml-40 text-center' src="https://livedemo00.template-help.com/wt_prod-18389/images/logo-light-207x41.png" alt="" srcset="" />
           <div className='gap-3 flex mt-8 justify-center items-center'>
             <section className='bg-slate-500 flex hover:bg-blue-600 justify-center items-center p-2 h-[40px] w-[40px] rounded-full'>
@@ -153,7 +153,7 @@ function Footer() {
 
       <main className='md:hidden lg:hidden grid grid-cols-1 p-4 h-[900px] bg-black'>
 
-      <div className='p-4 bg-red-200 grid h-[200px]'>
+      <div className='p-4 grid h-[200px]'>
           <img className='h-[70%] mt-5 text-center' src="https://livedemo00.template-help.com/wt_prod-18389/images/logo-light-207x41.png" alt="" srcset="" />
           <div className='gap-3 flex mt-2 justify-center items-center'>
             <section className='bg-slate-500 flex hover:bg-blue-600 justify-center items-center p-2 h-[40px] w-[40px] rounded-full'>
@@ -171,7 +171,7 @@ function Footer() {
           </div>
        </div>
 
-       <div className='bg-blue-300 h-[200px] -mt-[30px]'>
+       <div className='h-[200px] -mt-[30px]'>
           <h2 className='font-bold text-xl mt-5 mb-5 text-white'>
             NEWSLETTER
           </h2>
@@ -184,7 +184,7 @@ function Footer() {
        </div>
 
 
-       <div className='bg-emerald-300 h-[250px] -mt-[30px]'>
+       <div className='h-[250px] -mt-[30px]'>
               <h2 className='font-bold ml-1 text-xl mt-5 mb-5 text-white'>
                 USEFUL LINK
               </h2>
@@ -205,7 +205,7 @@ function Footer() {
               </div>
           </div>
 
-          <div className='bg-blue-300 h-[250px] -mt-[30px]'>
+          <div className='h-[250px] -mt-[30px]'>
             <h2 className='font-bold ml-1 text-xl mt-5 mb-5 text-white'>
               LASTEST NEWS
             </h2>
